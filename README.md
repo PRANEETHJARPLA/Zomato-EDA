@@ -1,14 +1,39 @@
-*Project Title: Zomato EDA Insights*
-This project involves a thorough Exploratory Data Analysis (EDA) on a dataset containing over 55,000 Zomato customer records. The objective was to clean and prepare the data, then extract meaningful insights about user behavior and restaurant patterns using visual analytics.
+# Zomato EDA Insights – Data Analytics & AI Readiness
 
-*Key Steps:*
-- Data Cleaning: Removed duplicates, handled missing values using statistical imputation, merged semantically similar column entries, and standardized column names for better readability.
-- Data Visualization: Used libraries like Matplotlib and Seaborn to generate plots highlighting online ordering trends, cuisine popularity, ratings distribution, vote volumes, price ranges, booking preferences, and restaurant types.
+This project demonstrates **end-to-end Exploratory Data Analysis (EDA)** on a dataset of over **55,000 Zomato customer records**, showcasing skills in **data preprocessing, visualization, and actionable insight generation**. The objective is to **unlock patterns in customer behavior and restaurant trends**, providing data-driven insights for strategic decisions.
 
-*Insights Uncovered:*
-- Certain cuisines tend to receive higher ratings and booking frequencies.
-- Customers show stronger engagement with restaurants that support online ordering.
-- Price ranges and vote counts vary significantly across restaurant types and regions.
-This project demonstrates proficiency in preprocessing, visual storytelling, and deriving business-friendly insights through Python. It's ideal for showcasing data wrangling and presentation skills with real-world relevance.
+## Project Overview
+- Conducted **thorough EDA** to understand customer preferences, cuisine popularity, pricing trends, and online ordering patterns.  
+- Preprocessed raw data to ensure **clean, structured, and analysis-ready datasets**.  
+- Visualized complex relationships to derive **business-relevant insights** using Python-based analytics libraries.
 
-*Data Set Link*: https://www.kaggle.com/code/akshitmadan/zomato-data-set-analysis-visualization
+## Key Contributions
+
+### Data Cleaning & Preparation
+- Handled **missing values**, removed duplicates, and standardized column names.  
+- Merged **semantically similar entries** to enhance dataset consistency.  
+- Prepared the dataset for robust analysis and visualization pipelines.
+
+### Analytics & Visualization
+- Generated **interactive plots and charts** using **Matplotlib** and **Seaborn**.  
+- Explored trends across:  
+  - Cuisine preferences and ratings  
+  - Vote distribution and booking trends  
+  - Price ranges and regional restaurant performance  
+  - Online vs. offline engagement patterns  
+
+### Business & AI-Ready Insights
+- Certain cuisines consistently receive **higher ratings and bookings**, identifying opportunities for menu optimization.  
+- **Online ordering** is correlated with stronger customer engagement.  
+- Significant **price–vote variations** highlight region- and restaurant-type-specific strategies.  
+- Insights are suitable for **AI-driven recommendation systems** or **customer behavior modeling** in future analytics workflows.
+
+## Skills & Tools
+- **Python**, **Pandas**, **NumPy** – Data manipulation and preprocessing  
+- **Matplotlib**, **Seaborn** – Data visualization and storytelling  
+- **EDA**, **Business Insight Generation**, **Data Wrangling**  
+- Ready for **analytics and AI applications**, including trend analysis, recommendation engines, and predictive modeling.
+
+## Dataset
+- [Zomato Dataset on Kaggle](https://www.kaggle.com/code/akshitmadan/zomato-data-set-analysis-visualization)
+
